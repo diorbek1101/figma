@@ -1,0 +1,350 @@
+body{
+    font-family: 'Exo 2', sans-serif;
+font-family: 'Geologica', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Pattaya', sans-serif;
+font-family: 'Righteous', cursive;
+font-family: 'Roboto', sans-serif;background: #14110E;
+padding: 0%;
+margin: 0%;
+}
+.menyu{
+    display: flex;
+    align-items: center;
+    gap: 48px;
+}
+.descripton{
+    display: flex;
+    align-items: center;
+    gap: 48px;
+}
+.top{
+    height: 125px;
+width: 100%;
+background: #1C1814;
+display: flex;
+align-items: center;
+justify-content: space-around;
+position: fixed;
+z-index: 10;
+}
+.imgs{
+    width: 100%;
+    margin: 0%;
+    padding: 0;
+}
+.dkjfvn{
+    height: 125px;
+
+}
+.bn{
+    height: 70px;
+width: 202px;
+left: 375px;
+top: 628px;
+border-radius: 0px;
+padding: 24px 40px 24px 40px;
+background: #C99E71;
+font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.djfnvjs{
+    position: absolute;
+    left:130px;
+    top: 200px;
+}
+.circle{
+    height: 70px;
+width: 70px;
+left: 1464px;
+top: 597px;
+border-radius: 80px;
+border: 1.5px solid #FFFFFF;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.playvideo{
+    position: absolute;
+left: 999px;
+top: 487px;
+z-index: 2;
+cursor: pointer;
+}
+.ikkinchi{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 50px;
+    place-content: center;
+    justify-content: center;
+    margin-top: 140px;
+}
+.lookke{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:32px;
+}
+.lookka{
+    height: 635px;
+width: 510px;
+left: 1035px;
+top: 1618px;
+border-radius: 0px;
+background: #1C1814;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.uchinchi{
+    display: grid;
+    grid-template-columns: 298px 298px 510px;
+    grid-gap:32px;
+    place-content: center;
+    margin-top: 140px;
+}
+.turtinchi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 140px;
+   
+    
+}
+.conteniers{
+    height: 579px;
+width: 366px;
+left: 375px;
+top: 2545px;
+border-radius: 0px;
+background: #121315;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+.beshinchi{
+    display: grid;
+    grid-template-columns: 366px 366px 366px;
+    grid-gap:36px;
+    place-content: center;
+}
+.dkjf{
+    height: 52px;
+width: 233px;
+border-radius: 10px;
+padding: 20px 36px 20px 36px;
+background: #C99E71;
+font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #FFFFFF;
+cursor: pointer;
+
+}
+.oltinchi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:50px;
+}
+
+.box{
+    height: 520px;
+width: 1070px;
+left: 375px;
+top: 3382px;
+border-radius: 0px;
+background: #1C1814;
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 200px;
+}
+.yettinchi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 140px;
+}
+.sakkizinchi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 140px;
+}
+.price{
+    height: 120px;
+width: 565px;
+left: 980px;
+top: 202px;
+border-radius: 0px;
+border: 1px solid #32323D;
+cursor: pointer;
+transition: 0.5s;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.tuqqizinchi{
+    display: grid;
+    grid-template-columns: 565px 565px;
+    grid-gap:40px;
+    place-content: center;
+}
+.price:hover{
+    background-color: rgba(240, 248, 255, 0.051);
+    width: 570px initial;
+    height: 125px initial;
+}
+.topsecond{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.uninchi{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 140px;
+}
+.price:active{
+    background-color: #ffffff6e;
+}
+.box2{
+    height: 265px;
+width: 505px;
+left: 375px;
+top: 1082px;
+border-radius: 0px;
+background: #1C1814;
+padding: 50px;
+}
+.boxes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+   }
+   .box4{
+    height: 652px;
+    width: 585px;
+    left: 960px;
+    top: 1619px;
+    border-radius: 0px;
+    background: #1C1814;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   }
+   .unikkinchi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 140px;
+   }
+   .poor{
+    height: 34px;
+width: 489px;
+left: 1008px;
+top: 1841px;
+border-radius: 0px;
+background: #14110E;
+display: flex;
+align-items: center;
+justify-content: start;
+padding: 20px;
+color: #FFFFFF;
+   }
+   .poors{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+   
+   }
+   .jdbskj{
+    height: 62px;
+width: 202px;
+left: 1152px;
+top: 2137px;
+border-radius: 0px;
+padding: 20px 36px 20px 36px;
+background: #C99E71;
+font-size: 15px;
+font-weight: 700;
+line-height: 22px;
+color: #FFFFFF;
+border: none;
+cursor: pointer;
+margin-top: 60px;
+   }
+
+   .unuchinchi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 140px;
+   }
+   .box6{
+    height: 528px;
+width: 366px;
+left: 375px;
+top: 2563px;
+border-radius: 0px;
+background: #1C1814;
+
+   }
+   .unturtinchi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 36px;
+   }
+   .yozilganlar{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+   }
+   .unyettinchi{
+    padding: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   }
+   .email{
+    height: 72px;
+width: 328px;
+left: 1216px;
+top: 3231px;
+border-radius: 36px;
+background: #332c24;
+
+   }
+   .email{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   }
